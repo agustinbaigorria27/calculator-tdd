@@ -1,0 +1,17 @@
+{
+  "name": "agustinbaigorria/phpunit",
+  "minimum-stability": "stable",
+  "license": "propietary",
+  "authors": [{
+    "name": "Agustín Baigorria",
+    "email": "agustinbaigorria27@gmail.com"
+  }],
+  "autoload": {
+    "psr-4": {
+      "": "\\"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
